@@ -16,3 +16,13 @@ JavaScript
 
 Use the arrow keys (w, a, s, d) to move the rectangle block on the canvas.
 Observe how the rectangle block responds to your keyboard input in real-time.
+
+
+# NOTE
+
+IF your Movement Goes out to Given resolution It will not Visible
+
+# Link To See the Project
+
+https://hotshot003.github.io/Rectangle-Movement/
+
