@@ -29,6 +29,7 @@ Observe how the rectangle block responds to your keyboard input in real-time.
 IF your Movement Goes out to Given resolution It will not Visible
 
 # Link To See the Project
+[![Live Demo](https://img.shields.io/badge/LiveDemo%20-%23276DC3.svg?&style=for-the-badge&logo=&logoColor=white)](https://hotshot003.github.io/Rectangle-Movement/)
 
-https://hotshot003.github.io/Rectangle-Movement/
+
 
