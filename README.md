@@ -1,6 +1,8 @@
 # Rectangle Block Movement Program
 
-This is a simple rectangle block movement program implemented using HTML5 canvas and JavaScript. The program allows you to control the movement of a rectangle block on the canvas using keyboard input.
+This is a simple rectangle block movement program implemented using HTML5 canvas and JavaScript. 
+
+The program allows you to control the movement of a rectangle block on the canvas using keyboard input.
 
 # Features
 Canvas Rendering: Utilizes HTML5 canvas element to render graphics.
